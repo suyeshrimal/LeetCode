@@ -7,4 +7,7 @@ class Solution:
             rem=x%10
             rev=rev*10+rem
             x=x//10
-        return x==rev or x==rev//10
+        if (x==rev or x==rev//10):
+            return True
+        else:
+            return False
