@@ -29,10 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/suyeshrimal/LeetCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suyeshrimal/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/suyeshrimal/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/suyeshrimal/LeetCode/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suyeshrimal/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
