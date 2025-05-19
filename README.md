@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/suyeshrimal/LeetCode/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/suyeshrimal/LeetCode/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suyeshrimal/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/suyeshrimal/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/suyeshrimal/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/suyeshrimal/LeetCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suyeshrimal/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/suyeshrimal/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/suyeshrimal/LeetCode/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suyeshrimal/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Linked List
 |  |
