@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/suyeshrimal/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/suyeshrimal/LeetCode/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/suyeshrimal/LeetCode/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/suyeshrimal/LeetCode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/suyeshrimal/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/suyeshrimal/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suyeshrimal/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String
 |  |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/suyeshrimal/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/suyeshrimal/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/suyeshrimal/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/suyeshrimal/LeetCode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suyeshrimal/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
@@ -44,12 +47,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/suyeshrimal/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suyeshrimal/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/suyeshrimal/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/suyeshrimal/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/suyeshrimal/LeetCode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/suyeshrimal/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Linked List
 |  |
@@ -59,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/suyeshrimal/LeetCode/tree/master/0206-reverse-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/suyeshrimal/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
